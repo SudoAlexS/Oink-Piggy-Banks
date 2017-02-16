@@ -1,0 +1,24 @@
+div.card-panel.product{
+    background-color: #9883E9;
+}
+
+p.producttitle{
+    margin-bottom: 7px;
+    margin-top: -15px;
+    font-size: 28px;
+    font-family: Roboto Thin;
+    color: #FFF;
+}
+
+p.productprice{
+    font-size: 23px;
+    color: #FFF;
+    font-family: Roboto Thin;
+}
+
+span.white-text{
+ margin-top: -20px;   
+}
+div.card-panel.product{
+    padding-bottom: 35px;
+}
